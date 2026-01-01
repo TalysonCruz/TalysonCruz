@@ -1,18 +1,24 @@
-# 💜 Olá, eu sou o Talyson!
+<p align="right">
+  <a href="README.md">🇧🇷 PT-BR</a> |
+  <a href="README.en.md">🇺🇸 EN</a>
+</p>
+
+# Olá, eu sou o Talyson!
 
 <p align="left">
-  Desenvolvedor em formação, comprometido a criar soluções modernas, funcionais e com propósito.<br>
-  Tenho focado meus estudos em <strong>React.js</strong>, <strong>Next.js</strong>, <strong>TypeScript</strong> e <strong>Node.js</strong>, transformando aprendizado em projetos reais durante minha jornada em Ciências da Computação.
+  Desenvolvedor Full Stack com foco em <strong>Backend</strong>, orientado a criar APIs escaláveis, bem estruturadas e prontas para produção.<br>
+  Trabalho principalmente com <strong>Node.js</strong>, <strong>NestJS</strong> e <strong>TypeScript</strong>, aplicando boas práticas, arquitetura limpa e código sustentável.
 </p>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
- - 🎓 Graduado em Ciências da Computação pela Estácio (Concluído em 12/2024)  
-- 📚 Estudo JavaScript, TypeScript, React.js, Next.js, HTML, CSS, Tailwind e Node.js para desenvolvimento Full Stack  
-- 🌍 Apaixonado por explorar novas tecnologias e desenvolver soluções que impactem positivamente  
-- ❤️ Acredito que aprender construindo é o melhor caminho — sempre aplico teoria na prática 🚀
+- 🎓 Graduado em **Ciências da Computação** – Estácio (12/2024)  
+- 🧠 Forte foco em **desenvolvimento Backend**
+- 🏗️ Experiência com **NestJS**, **Express** e autenticação baseada em JWT  
+- 🗄️ Bancos de dados relacionais e NoSQL  
+- 🚀 Acredito que aprender construindo é o melhor caminho — teoria sempre aplicada na prática  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
@@ -22,43 +28,60 @@
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Stack Tecnológica
 
-### Linguagens e Tecnologias  
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+### Backend
+[![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,express)](https://skillicons.dev)
 
-### Frameworks e Bibliotecas  
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,express,mysql,postgres,mongodb)](https://skillicons.dev)
+### Bancos de Dados
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
-### Ferramentas  
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,tailwind)](https://skillicons.dev)
+### Frontend (Apoio)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+
+### Ferramentas
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)
 
 ---
 
-Sou formado em Assistente de Logística e concluí a graduação em Ciências da Computação pela Estácio em dezembro de 2024.
+## 🧠 Foco em Backend & Boas Práticas
 
-Tenho me aprofundado em JavaScript, com foco em React.js e Next.js para o front-end e Node.js com Express para o back-end. Também venho explorando bancos de dados como MySQL, PostgreSQL e MongoDB, além de ferramentas como Tailwind CSS e Docker, aplicando esses conhecimentos em projetos acadêmicos e pessoais que compõem meu portfólio.
+- APIs REST com **NestJS** e arquitetura modular  
+- Clean Architecture e separação de responsabilidades  
+- Autenticação e autorização com JWT  
+- Modelagem de dados e ORM (**Prisma**)  
+- Configuração de ambientes e deploy  
+- Testes e validação de APIs (Postman / Thunder Client)
 
-Acredito que aprender construindo é o melhor caminho, por isso sempre busco transformar teoria em prática e desenvolver soluções reais 🚀
+---
 
-Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+## 🌱 O que estou buscando
+
+- Vagas **Backend** ou **Full Stack (Node.js / NestJS)**
+- Projetos reais e sistemas escaláveis
+- Times que valorizem boas práticas e arquitetura
+- Evolução técnica contínua
+
+---
+
+## 📬 Vamos nos conectar?
 
 <p align="left">
-  <a href="mailto:ribeirocruzps99@gmail.com" title="Enviar e-mail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:ribeirocruzps99@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/talyson-cruz-ribeiro-242b6823b/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/talyson-cruz-ribeiro-242b6823b/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/talyson_cruz/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://www.instagram.com/talyson_cruz/">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
+## 📊 Estatísticas do GitHub
 
 <a href="https://github.com/TalysonCruz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalysonCruz&layout=compact&langs_count=6&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalysonCruz&layout=compact&langs_count=6&theme=radical"/>
 </a>
