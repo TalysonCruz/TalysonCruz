@@ -3,22 +3,22 @@
   <a href="README.en.md">🇺🇸 EN</a>
 </p>
 
-# Olá, eu sou o Talyson!
+# Hi, I'm Talyson!
 
 <p align="left">
-  Desenvolvedor Full Stack com foco em <strong>Backend</strong>, orientado a criar APIs escaláveis, bem estruturadas e prontas para produção.<br>
-  Trabalho principalmente com <strong>Node.js</strong>, <strong>NestJS</strong> e <strong>TypeScript</strong>, aplicando boas práticas, arquitetura limpa e código sustentável.
+  Backend-oriented Full Stack Developer focused on building scalable, well-structured and production-ready APIs.<br>
+  I mainly work with <strong>Node.js</strong>, <strong>NestJS</strong> and <strong>TypeScript</strong>, applying clean architecture, best practices and maintainable code.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-- 🎓 Graduado em **Ciências da Computação** – Estácio (12/2024)  
-- 🧠 Forte foco em **desenvolvimento Backend**
-- 🏗️ Experiência com **NestJS**, **Express** e autenticação baseada em JWT  
-- 🗄️ Bancos de dados relacionais e NoSQL  
-- 🚀 Acredito que aprender construindo é o melhor caminho — teoria sempre aplicada na prática  
+- 🎓 Bachelor’s degree in **Computer Science** – Estácio (Dec/2024)  
+- 🧠 Strong focus on **Backend Development**  
+- 🏗️ Experience with **NestJS**, **Express** and JWT-based authentication  
+- 🗄️ Working with relational and NoSQL databases  
+- 🚀 I believe learning by building is the best way — theory always applied to real-world projects  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
@@ -28,43 +28,43 @@
 
 ---
 
-## 🚀 Stack Tecnológica
+## 🚀 Tech Stack
 
 ### Backend
 [![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,express)](https://skillicons.dev)
 
-### Bancos de Dados
+### Databases
 [![Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
-### Frontend (Apoio)
+### Frontend (Support)
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
-### Ferramentas
+### Tools
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,docker)](https://skillicons.dev)
 
 ---
 
-## 🧠 Foco em Backend & Boas Práticas
+## 🧠 Backend Focus & Best Practices
 
-- APIs REST com **NestJS** e arquitetura modular  
-- Clean Architecture e separação de responsabilidades  
-- Autenticação e autorização com JWT  
-- Modelagem de dados e ORM (**Prisma**)  
-- Configuração de ambientes e deploy  
-- Testes e validação de APIs (Postman / Thunder Client)
-
----
-
-## 🌱 O que estou buscando
-
-- Vagas **Backend** ou **Full Stack (Node.js / NestJS)**
-- Projetos reais e sistemas escaláveis
-- Times que valorizem boas práticas e arquitetura
-- Evolução técnica contínua
+- RESTful APIs with **NestJS** and modular architecture  
+- Clean Architecture & separation of concerns  
+- Authentication & authorization using JWT  
+- Database modeling and ORM (**Prisma**)  
+- Environment configuration and production-ready setups  
+- API testing with Postman / Thunder Client  
 
 ---
 
-## 📬 Vamos nos conectar?
+## 🌱 What I'm Looking For
+
+- Backend or Full Stack roles (Node.js / NestJS)
+- Real-world systems and scalable architectures
+- Teams that value clean code and good practices
+- Continuous learning and technical growth
+
+---
+
+## 📬 Let's Connect
 
 <p align="left">
   <a href="mailto:ribeirocruzps99@gmail.com">
@@ -80,7 +80,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <a href="https://github.com/TalysonCruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalysonCruz&layout=compact&langs_count=6&theme=radical"/>
