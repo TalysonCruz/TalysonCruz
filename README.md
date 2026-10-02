@@ -1,135 +1,200 @@
-<p align="right">
-  <a href="README.md">🇧🇷 PT-BR</a> |
-  <a href="README.en.md">🇺🇸 EN</a>
-</p>
+# Olá, eu sou o Talyson 👋
 
-# Hi, I'm Talyson!
+Desenvolvedor **Full Stack com foco em Backend**, interessado principalmente em **arquitetura de software, domínio de negócio, APIs e sistemas orientados a produção**.
 
-<p align="left">
-  Backend-oriented Full Stack Developer focused on building scalable, well-structured and production-ready systems and APIs.<br>
-  I work primarily with <strong>Node.js</strong>, <strong>NestJS</strong>, <strong>TypeScript</strong>, <strong>Java</strong> and <strong>Spring Boot</strong>, applying clean architecture, domain-driven design principles, observability and maintainable engineering practices.
-</p>
+Trabalho principalmente com **Node.js, NestJS, TypeScript, Java e Spring Boot**, desenvolvendo sistemas modulares e aplicando princípios como **Clean Architecture, DDD, SOLID, mensageria, observabilidade e separação de responsabilidades**.
+
+Meu foco não é apenas fazer a aplicação funcionar, mas entender **como o sistema deve ser estruturado, quais responsabilidades pertencem a cada camada e como as decisões arquiteturais impactam a evolução do produto**.
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
-* 🎓 Bachelor’s degree in **Computer Science** – Estácio (Dec/2024)
-* 🧠 Strong focus on **Backend Development, Software Architecture and System Design**
-* 🏗️ Experience building modular backend systems with **NestJS**, **Spring Boot** and **FastAPI**
-* 🗄️ Experience with **PostgreSQL**, **MySQL/MariaDB**, Prisma, JPA/Hibernate and Redis
-* 🧪 Working with automated testing using **JUnit 5, Mockito, Spring Boot Test and Testcontainers**
-* 📊 Experience implementing **observability** with **Prometheus, Grafana, Loki, Tempo, OpenTelemetry and Micrometer**
-* ⚙️ Experience with **Docker, Redis, BullMQ and event-driven architectures**
-* 🚀 I believe learning by building is the best way — theory should always be applied to real-world systems
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eduardavieira-dev/eduardavieira-dev/output/pacman-contribution-graph.svg">
-</picture>
+* 🎓 Bacharel em **Ciência da Computação** — Estácio (2024)
+* 🧠 Foco em **Backend, Arquitetura de Software e Engenharia de Sistemas**
+* 🏗️ Experiência com sistemas modulares e aplicações de negócio
+* 🔧 Desenvolvimento com **NestJS, Spring Boot e FastAPI**
+* 🗄️ Experiência com **PostgreSQL, MySQL/MariaDB e Redis**
+* 📨 Experiência com **Kafka, BullMQ e arquiteturas orientadas a eventos**
+* 📊 Observabilidade com **Prometheus, Grafana, Loki, Tempo, OpenTelemetry e Micrometer**
+* 🧪 Testes automatizados com **JUnit 5, Mockito, Spring Boot Test e Testcontainers**
+* 🐳 Desenvolvimento e infraestrutura utilizando **Docker**
+* 🧩 Experiência com modelagem de domínio, regras de negócio, repositories, mappers e integrações
+* 🚀 Aprendizado baseado principalmente na construção e evolução de sistemas reais
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tecnologias
 
 ### Backend
 
 [![Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,express,java,spring,python,fastapi)](https://skillicons.dev)
 
-### Databases & Data
+### Bancos de Dados
 
 [![Skills](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
 
-**Prisma · JPA · Hibernate · Spring Data JPA**
+**SQL · PostgreSQL · MySQL/MariaDB · Prisma · JPA · Hibernate · Spring Data JPA**
 
 ### Frontend
 
 [![Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
-### Infrastructure & DevOps
+### Infraestrutura
 
 [![Skills](https://skillicons.dev/icons?i=docker,nginx,git,github)](https://skillicons.dev)
 
-### Messaging, Queues & Integrations
+### Mensageria e Processamento
 
-**BullMQ · Redis · Kafka · Stripe · Cloudinary · Z-API**
+**Kafka · BullMQ · Redis**
 
-### Observability
+### Observabilidade
 
 **Prometheus · Grafana · Loki · Tempo · OpenTelemetry · Micrometer**
 
-### Testing
+### Testes
 
 **JUnit 5 · Mockito · Spring Boot Test · Testcontainers**
 
 ---
 
-## 🧠 Backend Focus & Engineering Practices
+## 🧠 Engenharia e Arquitetura
 
-* RESTful APIs with **NestJS**, **Spring Boot** and **FastAPI**
-* Modular architecture and separation of responsibilities
-* Clean Architecture and maintainable domain-oriented design
-* Authentication and authorization using **JWT**
-* Database modeling and persistence with **Prisma**, **JPA/Hibernate** and **Spring Data JPA**
-* Business rules implemented in the backend
-* Asynchronous processing with **BullMQ** and Redis
-* Event-driven architecture and messaging with **Kafka**
-* Automated testing and integration testing with **Testcontainers**
-* Observability with logs, metrics and distributed tracing
-* API documentation, validation and structured error handling
-* Docker-based development and infrastructure
-* Production-oriented development and system troubleshooting
+Tenho trabalhado principalmente com:
 
----
+* **Clean Architecture**
+* **Domain-Driven Design (DDD)**
+* **SOLID**
+* **Arquitetura modular**
+* **Entidades ricas e regras de domínio**
+* **Value Objects**
+* **Domain Events**
+* **State Machines**
+* **Repository Pattern**
+* **Application e Database Mappers**
+* **DTOs e separação de contratos**
+* **Integração síncrona e assíncrona**
+* **Kafka e arquiteturas orientadas a eventos**
+* **Outbox Pattern**
+* **Observabilidade e rastreabilidade**
+* **Processamento assíncrono**
+* **Modelagem e otimização de consultas SQL**
+* **Docker e ambientes de desenvolvimento**
 
-## 🏗️ Current Projects
-
-### ERP / Business Management Platform
-
-A large modular backend built with **NestJS, TypeScript, Prisma and PostgreSQL**, including domains such as:
-
-**Products · Inventory · Sales Orders · Production · BOM · Resources · Dashboard · Organizations · Permissions · Authentication · Chat · Support · Tasks · Audit Logs · Automation**
-
-The project is also being expanded with infrastructure for:
-
-**Prometheus · Grafana · Loki · Tempo · OpenTelemetry**
+Busco aplicar essas práticas de acordo com o problema real do sistema, evitando adicionar complexidade apenas por seguir um padrão.
 
 ---
 
-### RH Service
+## 🏗️ Projetos
 
-An independent backend service focused on human resources, currently being developed with:
+### 💼 Plataforma Comercial / CRM / ERP
 
-**Java · Spring Boot · PostgreSQL · JPA/Hibernate · Spring Data JPA · Flyway**
+Projeto principal de desenvolvimento, construído para representar um sistema comercial real e evoluir de forma modular.
 
-The service is being built with:
+O backend utiliza principalmente:
+
+**NestJS · TypeScript · PostgreSQL · GraphQL · SQL · Kafka · Docker**
+
+O projeto possui áreas como:
+
+**CRM · Vendas · Compras · Estoque · Produção · Logística**
+
+No núcleo do sistema existem recursos como:
+
+**Autenticação · Organizações · Permissões · Auditoria · Chat · Documentos**
+
+O projeto também vem sendo utilizado para aprofundar conceitos de:
+
+**DDD · Clean Architecture · State Machines · Domain Events · Outbox Pattern · Mensageria · Observabilidade**
+
+Uma das partes importantes do projeto é a evolução arquitetural contínua. Conforme o sistema cresce, decisões antigas são revisadas para melhorar separação de responsabilidades, confiabilidade dos eventos e manutenção do código.
+
+---
+
+### 👥 Serviço de RH
+
+Microsserviço independente desenvolvido com:
+
+**Java · Spring Boot · PostgreSQL · JPA/Hibernate · Flyway**
+
+Responsável por domínios relacionados a recursos humanos, incluindo:
+
+**Funcionários · Documentos · Contratos · Departamentos · Cargos · Locais de Trabalho · Jornadas · Ponto · Férias · Ausências**
+
+O serviço também utiliza:
 
 **JUnit 5 · Mockito · Spring Boot Test · Testcontainers**
 
-and includes domains such as:
+e possui infraestrutura de observabilidade utilizando:
 
-**Employees · Documents · Contracts · Departments · Positions · Workplaces · Schedules · Attendance · Time Balance · Vacations · Absences**
-
----
-
-### Automation / AI Layer
-
-Python-based automation services built with **FastAPI**, designed to interact with backend systems and automate business operations.
+**Micrometer · Prometheus · Grafana · Loki · Tempo · OpenTelemetry**
 
 ---
 
-## 🌱 What I'm Looking For
+### 🤖 Automação e IA
 
-* Backend or Full Stack roles
-* Opportunities involving **Node.js / NestJS / TypeScript / Java / Spring Boot**
-* Real-world systems and scalable architectures
-* Teams that value clean code, engineering practices and technical ownership
-* Continuous learning and technical growth
+Serviços e integrações desenvolvidos com:
+
+**Python · FastAPI**
+
+Voltados para automação de processos e integração com sistemas backend.
+
+A ideia é utilizar automação e IA como uma camada complementar aos sistemas de negócio, mantendo as regras principais e a consistência dos dados sob responsabilidade dos backends.
 
 ---
 
-## 📬 Let's Connect
+## 🔍 Como eu penso software
+
+Alguns princípios que tento aplicar nos projetos:
+
+> **Regra de negócio pertence ao domínio.**
+
+> **Infraestrutura não deve definir o domínio.**
+
+> **Uma consulta não precisa virar um evento.**
+
+> **Um evento representa algo que aconteceu, não uma chamada disfarçada.**
+
+> **Nem tudo precisa ser síncrono e nem tudo precisa ser assíncrono.**
+
+> **Complexidade deve existir para resolver um problema real.**
+
+> **Arquitetura deve facilitar a evolução do sistema, não apenas organizar pastas.**
+
+Grande parte da minha evolução técnica vem justamente de revisar decisões antigas, identificar problemas arquiteturais e entender por que determinada abordagem é adequada para determinado cenário.
+
+---
+
+## 🚀 Atualmente
+
+Estou focado principalmente na evolução da minha plataforma **Comercial/CRM/ERP**, aprofundando:
+
+**Arquitetura de Software · DDD · Event-Driven Architecture · Kafka · Outbox · Observabilidade · SQL · Modelagem de Domínio**
+
+Também continuo estudando e desenvolvendo projetos utilizando **Java/Spring Boot** e **C#/.NET**, ampliando minha experiência com diferentes ecossistemas e formas de construção de sistemas.
+
+---
+
+## 📚 Sempre aprendendo
+
+Tenho interesse constante em:
+
+* Arquitetura de sistemas
+* Sistemas distribuídos
+* DDD
+* Mensageria
+* Performance
+* Banco de dados
+* Observabilidade
+* Engenharia de software
+* Automação
+* Inteligência Artificial aplicada a sistemas
+
+Acredito principalmente em **aprender construindo, testar na prática e revisar decisões conforme o sistema evolui**.
+
+---
+
+## 📫 Contato
 
 <p align="left">
   <a href="mailto:ribeirocruzps99@gmail.com">
@@ -138,15 +203,18 @@ Python-based automation services built with **FastAPI**, designed to interact wi
   <a href="https://www.linkedin.com/in/talyson-cruz-ribeiro-242b6823b/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/talyson_cruz/">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <a href="https://github.com/TalysonCruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalysonCruz&layout=compact&langs_count=6&theme=radical"/>
 </a>
+
+---
+
+<p align="center">
+  Construindo sistemas, revisando decisões e evoluindo um pouco a cada projeto.
+</p>
